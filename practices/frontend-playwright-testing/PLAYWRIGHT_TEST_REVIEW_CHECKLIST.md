@@ -2,7 +2,7 @@
 
 Checklist: Playwright Test Review Checklist  
 Version: 1.0.0  
-Status: Draft  
+Status: Active  
 Last Updated: 2026-05-04  
 Maintainer: Charlie Mi <txqq3116934585@gmail.com>
 
